@@ -165,6 +165,9 @@ margin-bottom: 24px;
 .recent_card_item img{
     border-radius: 24px;
 }
+.recent_card_item2{
+    flex-direction: row-reverse;
+}
 .items_contain_title{
     color: rgba(14, 14, 14, 0.8);
 font-size: 32px;
@@ -264,4 +267,11 @@ text-align: left;
     justify-content: center;
     align-items: center;
     margin-bottom: 80px;
+}
+/* hover */
+.hover:hover{
+    background-color: red;
+}
+.btn_hover:hover{
+    background-color: black;
 }
