@@ -1,0 +1,144 @@
+/* header */
+.banner{
+    max-width: 1280px;
+    border-radius: 24px;
+background: rgb(198, 228, 214);
+ display: flex;
+  justify-content: center;
+  align-items: center;
+ margin: 0 auto;
+ height: 560px;
+ gap: 64px;
+ margin-bottom: 80px;
+}
+.banner_title{
+    color: rgba(14, 14, 14, 0.5);
+font-size: 24px;
+font-weight: 500;
+text-align: left;
+}
+.banner_description{
+    color: rgb(14, 14, 14);
+font-size: 56px;
+font-weight: 700;
+text-align: left;
+margin-top: 16px;
+margin-bottom: 24px;
+}
+.banner_button{
+    border-radius: 8px;
+background: rgb(0, 106, 80);
+padding: 17px 34px 17px 34px;
+color: rgb(255, 255, 255);
+font-size: 18px;
+font-weight: 600;
+text-align: left;
+border: none;
+}
+/* vision */
+.vision{
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+.vision_title{
+    color: rgb(14, 14, 14);
+font-size: 40px;
+font-weight: 700;
+text-align: left;
+margin-bottom: 24px;
+}
+.vision_description{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+margin-bottom: 24px;
+}
+.card1{
+border-radius: 16px;
+background: rgba(84, 144, 245, 0.2);
+width: 410.67px;
+height: 325px;
+}
+.card_items{
+    padding: 32px;
+}
+.card_title{
+    color: rgba(14, 14, 14, 0.8);
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+}
+.card_details{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+margin-top: 12px;
+margin-bottom: 24px;
+}
+.card_button{
+    border-radius: 8px;
+background: rgb(84, 144, 245);
+padding: 11px 20px 11px 20px;
+color: rgb(255, 255, 255);
+font-size: 16px;
+font-weight: 600;
+text-align: left;
+border: none;
+}
+.card2{
+border-radius: 16px;
+background: rgb(198, 228, 214);
+}
+.card2button{
+    border-radius: 8px;
+background: rgb(9, 161, 92);
+}
+.card3{
+border-radius: 16px;
+background: rgb(247, 235, 207);
+}
+.card3btn{
+    border-radius: 8px;
+background: rgb(255, 194, 57);
+}
+.card_container{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 32px;
+}
+.yousuf_govt{
+    height: 256px;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+background-image: url(./assets/quote-bg.png);
+background-repeat: no-repeat;
+background-position:calc(24px) calc(34px);
+
+}
+.sir_speech{
+padding: 48px 24px 48px 24px;
+}
+.sir_description{
+    color: rgba(14, 14, 14, 0.8);
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+}
+.sir_name{
+    color: rgba(14, 14, 14, 0.8);
+font-size: 20px;
+font-weight: 600;
+text-align: left;
+}
+.sir_title{
+    color: rgba(14, 14, 14, 0.6);
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+margin-top: 4px;
+}
